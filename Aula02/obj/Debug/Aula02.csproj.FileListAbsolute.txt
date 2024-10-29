@@ -1,0 +1,7 @@
+C:\Users\vitor.fbarduco\source\repos\Aula02\Aula02\bin\Debug\Aula02.exe.config
+C:\Users\vitor.fbarduco\source\repos\Aula02\Aula02\bin\Debug\Aula02.exe
+C:\Users\vitor.fbarduco\source\repos\Aula02\Aula02\bin\Debug\Aula02.pdb
+C:\Users\vitor.fbarduco\source\repos\Aula02\Aula02\obj\Debug\Aula02.csproj.AssemblyReference.cache
+C:\Users\vitor.fbarduco\source\repos\Aula02\Aula02\obj\Debug\Aula02.csproj.CoreCompileInputs.cache
+C:\Users\vitor.fbarduco\source\repos\Aula02\Aula02\obj\Debug\Aula02.exe
+C:\Users\vitor.fbarduco\source\repos\Aula02\Aula02\obj\Debug\Aula02.pdb
